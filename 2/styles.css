@@ -1,0 +1,44 @@
+p{
+    color:black;
+    text-align: center;
+    background-color:lightgreen;
+    size: 50px;
+    font-family: cursive;
+}
+
+.primerParrafo{
+    background-color:lightgreen;
+}
+
+.segundoParrafo{
+    color:darkblue;
+    text-align: justify;
+    size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+}
+
+#tercerParrafo{
+    color: aquamarine;
+    text-align: left;
+    size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: darkgreen;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 600px;
+}
