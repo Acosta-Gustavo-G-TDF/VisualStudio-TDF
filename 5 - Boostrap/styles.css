@@ -1,0 +1,41 @@
+.borde{
+    border: 3px black solid;
+}
+
+.encabezado{
+    height: 100px;
+    align-content: center;
+}
+
+.encabezadoAlto{
+    height: 30px;
+}
+
+.encabezadoDerecha{
+    justify-content: flex-end;
+    align-content: flex-end;
+}
+
+.articulo{
+    height: 250px;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.articuloAlto{
+    height: 230px;
+}
+
+.pie{
+    height: 100px;
+    align-content: space-between;
+    align-content: center;
+}
+
+.pieAlto{
+    height: 30px;
+}
+
+.letraBlanco{
+    color:aliceblue
+}
