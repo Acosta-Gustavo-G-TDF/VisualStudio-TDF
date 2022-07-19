@@ -1,0 +1,42 @@
+p{
+    background-color: aliceblue;
+    text-align: center;
+    border: 2px solid black;
+}
+
+h3{
+    background-color: aliceblue;
+    text-align: center;
+    border: 2px solid black;
+}
+
+article > p {
+    background-color: yellow;
+    text-align: center;
+    border: 2px solid black;
+}
+
+div + h2 {
+    background-color: red;
+    text-align: center;
+    border: 2px solid black;
+}
+
+p ~ h2 {
+    background-color: orange;
+    text-align: center;
+    border: 2px solid black;
+}
+
+p span{
+    color: blue;
+}
+
+button{
+    width: 100%;
+}
+
+button:hover{
+    background-color: red;
+    color: blue;
+}
